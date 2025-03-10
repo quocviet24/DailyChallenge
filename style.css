@@ -1,0 +1,9 @@
+.btn-custom {
+  width: 100%;
+  margin-bottom: 10px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.btn-custom:hover {
+  transform: scale(1.05);
+}
